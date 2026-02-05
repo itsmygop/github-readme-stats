@@ -6,6 +6,6 @@
 
 官方 github-readme-stats.vercel.app 使用者太多，约等于不可用，于是自部署
 
-资源也是溢出的于是公益开放，注册半年以上的github号可邮 `jsoneri@linux.do` 申请，带账号名与申请理由
+资源也是溢出的于是公益开放，注册三个月以上的github号可邮 `jsoneri@linux.do` 申请，带账号名与申请理由
 
 白名单机制，账号近期活跃加理由合理即可通过
